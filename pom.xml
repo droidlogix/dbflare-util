@@ -6,7 +6,7 @@
 
     <groupId>com.droidlogix</groupId>
     <artifactId>dbflare-util</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
 
     <properties>
         <maven.compiler.target>1.8</maven.compiler.target>
@@ -43,8 +43,8 @@
     <dependencies>
         <dependency>
             <groupId>com.droidlogix</groupId>
-            <artifactId>dbflare-core-models</artifactId>
-            <version>1.0.1</version>
+            <artifactId>dbflare-endpoint-core</artifactId>
+            <version>1.0.3</version>
         </dependency>
         <dependency>
             <groupId>javax.servlet</groupId>

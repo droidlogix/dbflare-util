@@ -1,6 +1,6 @@
 package com.droidlogix.dbflare.util;
 
-import com.dbflare.core.models.IEndpoint;
+import com.droidlogix.dbflare.endpoint.core.models.IEndpoint;
 
 import javax.servlet.http.HttpServletRequest;
 import java.util.Arrays;
@@ -9,7 +9,8 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * Author: John Pili
+ * @author John Pili
+ * @since 1.0.0
  */
 
 public class ApiUtil
